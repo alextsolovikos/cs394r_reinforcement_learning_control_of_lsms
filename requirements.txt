@@ -1,0 +1,8 @@
+gym==0.21.0
+jupyter==1.0.0
+matplotlib==3.5.1
+numpy==1.22.3
+ray==1.12.0
+scipy==1.5.2
+torch==1.11.0+cu113
+tqdm==4.63.0
