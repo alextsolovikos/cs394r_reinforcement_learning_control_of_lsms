@@ -14,6 +14,6 @@ $ pip install -r requirements.txt
 $ python -m ipykernel install --user --name=env
 `````````
 
-## PPO + LSTM agent with discrete actions
+## PPO + LSTM Agent with Discrete Actions
 The animation below demonstrates the trained policy in action. The target volume is marked by red particles and is detected by an observation box upstream of the actuator. When the control input is 1, the jet slowly ramps up its induced downwash, pushes the target volume toward the wall, and then turns off.
 ![](figs/ppo_lstm_discrete.gif)
