@@ -1,0 +1,2 @@
+# cs394r_reinforcement_learning_control_of_lsms
+Reinforcement Learning Control of Large Scale Motions
